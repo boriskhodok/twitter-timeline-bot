@@ -64,6 +64,6 @@ OAuth Consumer Key you received from **Twitter Developer API**
 _No real tests developed yet_
 
 ## Running
-`./gradlew test`
+`./gradlew run`
 
 Go to your bot in Telegram app and check if it responds to `/start` command.
